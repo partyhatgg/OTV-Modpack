@@ -1,13 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
-metafile = true
+file = "LICENSE"
+hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "a43e92e619450f5e1c0cd79114232a8f8ddf16892342af1c855ebcf97f877e8f"
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
@@ -33,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
 metafile = true
 
 [[files]]
@@ -104,7 +108,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f8f30afc8349f40bfbe62d21aabf6caeca2d67a8cc2778296ce758b2763c5d8d"
 metafile = true
-
-[[files]]
-file = "outofdate/exordium.pw.toml"
-hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
