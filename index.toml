@@ -12,7 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "90091c16a34192c6513f053c15844b3cedb7b4fcc18fc3337176da63b00eedb1"
 metafile = true
 
 [[files]]
@@ -22,7 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ace3e916242bdfbc9177b8572dd57567b5a1afc6773466d21f464522b3a60981"
+hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
@@ -32,17 +42,22 @@ metafile = true
 
 [[files]]
 file = "mods/gatekeep.pw.toml"
-hash = "b51ef1d52fc4cce65602c5a800a3f3d3b847a59ea36a826fe4c03e3b279c708d"
+hash = "2988b13cefe7889d4c65d958050d479f7414dcaeca570ba21ee6c7dd3f1162f2"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
 metafile = true
 
 [[files]]
@@ -61,8 +76,13 @@ hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bd1eaf224c02e5f8cb6989dacb0930f1083330c49ba703219e386e912281b043"
+hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
 metafile = true
 
 [[files]]
@@ -86,17 +106,5 @@ hash = "f8f30afc8349f40bfbe62d21aabf6caeca2d67a8cc2778296ce758b2763c5d8d"
 metafile = true
 
 [[files]]
-file = "outofdate/controlling.pw.toml"
-hash = "bb840d853d0da5f98a0bfb39c6484411d2fde757d05dc2b70f065e601a7bb821"
-
-[[files]]
 file = "outofdate/exordium.pw.toml"
 hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
-
-[[files]]
-file = "outofdate/fabrishot.pw.toml"
-hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
-
-[[files]]
-file = "outofdate/searchables.pw.toml"
-hash = "73517338d1fcf0ea72fc083841b7407888bbef494af9a3dcff041ee12a68c59b"
