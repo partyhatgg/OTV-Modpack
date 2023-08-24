@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
 [[files]]
+file = "add_extras.py"
+hash = "509cfbf04e235007241e5e10777bb20773109b2e48a55c56d17f889b9bc9d2f9"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true

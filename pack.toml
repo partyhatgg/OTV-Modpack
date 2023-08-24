@@ -1,12 +1,12 @@
 name = "Hina Optimized"
 author = "Team Partyhat"
-version = "1.1.2"
+version = "1.1.2-extras"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d8ad9dc0b90927b048ff03b88b17ae32e091b4f1cee4d75643cf05e354e1088b"
+hash = "66de8c6d9b0e30ca1e963946e1298982b681842635e8bac9dd2a73654b2979a2"
 
 [versions]
 fabric = "0.14.22"
