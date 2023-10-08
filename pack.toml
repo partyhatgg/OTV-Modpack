@@ -1,16 +1,16 @@
 name = "Hina Optimized"
 author = "Team Partyhat"
-version = "1.1.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7e8d7fbce1d09bfb18ab555af9e50339382592107d067e08fcd5312440ae5162"
+hash = "0b40d9247f1680a9767d2a1d9410258dda88090db9a103db93a7164258b95a1e"
 
 [versions]
-fabric = "0.14.22"
-minecraft = "1.20.1"
+fabric = "0.14.23"
+minecraft = "1.20.2"
 
 [options]
-acceptable-game-versions = ["1.20.1"]
+acceptable-game-versions = ["1.20.2", "1.20.1"]
